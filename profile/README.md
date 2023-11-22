@@ -1,4 +1,4 @@
-![RedEye Technologies](https://assets.redeyetechnologies.co.uk/pubweb/github-banner.png)
+![RedEye Technologies](https://assets.redeyetechnologies.co.uk/pubweb/github-banner.png?vary=1)
 
 ## Welcome to RedEye Technologies
 
